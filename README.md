@@ -1,5 +1,5 @@
 # Links
-[![Discord](https://img.shields.io/badge/Github-Official%20Discord.Net-brightgreen?style=for-the-badge)](https://github.com/discord-net/Discord.Net)
+[![Discord](https://img.shields.io/badge/Github-Official%20Discord.Net-brightgreen?style=for-the-badge&logo=github)](https://github.com/discord-net/Discord.Net)
 [![Discord](https://img.shields.io/badge/Documents-Official%20Discord.Net-brightgreen?style=for-the-badge)](https://docs.stillu.cc/index.html)
 [![Discord](https://img.shields.io/badge/Documents-Official%20Discord.Net-brightgreen?style=for-the-badge&logo=discord)](https://discord.gg/discord-api)
 
